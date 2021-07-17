@@ -65,7 +65,7 @@ or
 
 Thanks to [InfotelGroup](https://telegram.dog/InFoTelGroup) and [Erich Daniken](https://telegram.dog/ErichDaniken) for the video
 
-## Any bugs or errors or suggestions, report at [TroJanzSupport](https://telegram.dog/TroJanzSupport)
+## Any bugs or errors or suggestions, report at [KicchaRequest](https://telegram.dog/KicchaRequest)
 
 
 ## Installation
