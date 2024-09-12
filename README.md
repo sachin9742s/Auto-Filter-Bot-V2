@@ -63,7 +63,7 @@ or
 
 [Click here to see tutorial video](https://youtu.be/zum9AUlOgtQ)
 
-Thanks to [KicchaRequest](https://telegram.dog/KicchaRequest) and [Sachin S](https://telegram.dog/sachin_official_admin) for the video
+Thanks to [KicchaRequest](https://telegram.dog/KicchaRequest) and [Sachin](https://telegram.dog/sachin_official_admin) for the video
 
 ## Any bugs or errors or suggestions, report at [KicchaRequest](https://telegram.dog/KicchaRequest)
 
