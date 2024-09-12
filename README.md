@@ -8,12 +8,12 @@
 </p>
 <p align="center">
   <a href="https://github.com/TroJanzHEX/Auto-Filter-Bot-V2/stargazers">
-    <img src="https://img.shields.io/github/stars/TroJanzHEX/Auto-Filter-Bot-V2?style=social">
+    <img src="https://img.shields.io/github/stars/sachin9742s/Auto-Filter-Bot-V2?style=social">
 
   </a>
   
   <a href="https://github.com/TroJanzHEX/Auto-Filter-Bot-V2/fork">
-    <img src="https://img.shields.io/github/forks/TroJanzHEX/Auto-Filter-Bot-V2?label=Fork&style=social">
+    <img src="https://img.shields.io/github/forks/sachin9742s/Auto-Filter-Bot-V2?label=Fork&style=social">
 
   </a>  
 </p>
@@ -65,7 +65,7 @@ or
 
 Thanks to [InfotelGroup](https://telegram.dog/InFoTelGroup) and [Erich Daniken](https://telegram.dog/ErichDaniken) for the video
 
-## Any bugs or errors or suggestions, report at [TroJanzSupport](https://telegram.dog/TroJanzSupport)
+## Any bugs or errors or suggestions, report at [KicchaRequest](https://telegram.dog/KicchaRequest)
 
 
 ## Installation
@@ -108,4 +108,4 @@ python3 main.py
 
 [![KicchaRequest](https://img.shields.io/badge/Pyrogram%20-%23F37626.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://github.com/pyrogram/pyrogram)
 
-And as always, [SpEcHlDe](https://telegram.dog/SpEcHlDe)
+And as always, [SpEcHlDe](https://telegram.dog/KicchaRequest)
